@@ -1,0 +1,12 @@
+G:\PROgramovani\Formulare\Formulare\bin\Debug\Formulare.exe.config
+G:\PROgramovani\Formulare\Formulare\bin\Debug\Formulare.exe
+G:\PROgramovani\Formulare\Formulare\bin\Debug\Formulare.pdb
+G:\PROgramovani\Formulare\Formulare\obj\Debug\Formulare.csproj.AssemblyReference.cache
+G:\PROgramovani\Formulare\Formulare\obj\Debug\Formulare.csproj.SuggestedBindingRedirects.cache
+G:\PROgramovani\Formulare\Formulare\obj\Debug\Formulare.Form1.resources
+G:\PROgramovani\Formulare\Formulare\obj\Debug\Formulare.Properties.Resources.resources
+G:\PROgramovani\Formulare\Formulare\obj\Debug\Formulare.csproj.GenerateResource.cache
+G:\PROgramovani\Formulare\Formulare\obj\Debug\Formulare.csproj.CoreCompileInputs.cache
+G:\PROgramovani\Formulare\Formulare\obj\Debug\Formulare.exe
+G:\PROgramovani\Formulare\Formulare\obj\Debug\Formulare.pdb
+G:\PROgramovani\Formulare\Formulare\obj\Debug\Formulare.Form2.resources
